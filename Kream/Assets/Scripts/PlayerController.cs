@@ -12,7 +12,6 @@ public class PlayerController : MonoBehaviour
     public float jumpHeight = 1.5f;
 
     private CharacterController controller;
-    private Vector3 velocity;
     private Animator animator;
 
     void Start()
